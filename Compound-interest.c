@@ -3,7 +3,7 @@
 
 int main() {
     int principal = 8000;      // Principal amount
-    float rate = 0.05;         // Annual interest rate (in decimal)
+    float rate = 0.04;         // Annual interest rate (in decimal)
     int time = 2;              // Time in years
     int n = 4;                 // Compounding quarterly
 
